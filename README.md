@@ -1,0 +1,1 @@
+# Shit-JIS to UTF-8 Encoder
